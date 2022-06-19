@@ -1,5 +1,5 @@
 # Portainer
-Monitorización de contenedores con Portainer.\n
+Monitorización de contenedores con Portainer.
 Despliegue mediante Docker-Compose del servicio de monitorización de Portainer.
 
 ## Carpeta Data
